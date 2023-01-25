@@ -1,7 +1,7 @@
-import { clienteService } from "../service/cliente-service";
+import { clienteService } from "../service/cliente-service.js";
 
 const criaNovaLinha = (nome, email) => {
-    linhaNovoCliente = document.createElement('tr');
+    const linhaNovoCliente = document.createElement('tr');
     const conteudo = `
         <td class="td" data-td>${nome}</td>
             <td>${email}</td>
