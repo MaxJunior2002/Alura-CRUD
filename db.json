@@ -2,12 +2,12 @@
   "profile": [
     {
       "nome": "Max",
-      "email": "maxjunior@mail.com",
+      "email": "max@mail.com",
       "id": 1
     },
     {
-      "nome": "Max",
-      "email": "max@mail.com",
+      "nome": "Max Junior",
+      "email": "maxjr@mail.com",
       "id": 2
     },
     {
