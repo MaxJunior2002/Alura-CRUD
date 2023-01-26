@@ -1,3 +1,19 @@
 {
-  "profile": []
+  "profile": [
+    {
+      "nome": "Maxi",
+      "email": "maxi@mail.com",
+      "id": 1
+    },
+    {
+      "nome": "Max",
+      "email": "max@mail.com",
+      "id": 2
+    },
+    {
+      "nome": "Teste",
+      "email": "teste@mail.com",
+      "id": 3
+    }
+  ]
 }
